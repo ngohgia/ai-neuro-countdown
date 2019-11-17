@@ -1,17 +1,13 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: ML/CV/NLP/MedicalImaging/Neuroscience Conference Deadlines # (Maintained by @ngohgia, original by @abhshkdz)
+description: Countdowns to top Machine Learning/Computer Vision/Natural Language Processing/Medical Imaging/Neuroscience conference deadlines
+author: Gia Ngo (original by Abhishek Das)
 
-domain: "aideadlin.es"
+domain: "ngohgia.github.io/ai-neuro-countdown"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+github_username: ngohgia
+github_repo: ai-neuro-conference-countdown
 
 markdown: kramdown
-ga_id: UA-36274081-2
 
 include: ['_pages']
