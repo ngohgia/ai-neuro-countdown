@@ -99,16 +99,6 @@
   place: Washington, D.C., USA
   sub: CV
 
-- title: RSS
-  year: 2020
-  id: rss20
-  link: https://roboticsconference.org/
-  deadline: '2020-01-30 23:59:59'
-  timezone: UTC-12
-  date: Jul 12-17, 2020
-  place: Oregon State University at Corvallis, Oregon
-  sub: RO
-
 - title: COLT
   year: 2020
   id: colt20
@@ -130,16 +120,6 @@
   place: Vienna, Austria
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
-
-- title: IROS
-  year: 2020
-  id: iros20
-  link: http://www.iros2020.org/
-  deadline: '2020-03-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: Oct 24-30, 2020
-  place: Las Vegas, USA
-  sub: RO
 
 - title: ECCV
   year: 2020
@@ -367,16 +347,6 @@
   place: Quebec City, Canada
   sub: CV
 
-- title: CoRL
-  year: 2019
-  id: corl2019
-  link: http://www.robot-learning.org
-  deadline: '2019-07-07 23:59:59'
-  timezone: UTC-7
-  date: October 30 - November 1, 2019
-  place: Osaka, Japan
-  sub: RO
-
 - title: AAAI
   year: 2020
   id: aaai20
@@ -386,16 +356,6 @@
   date: February 7-12, 2020
   place: New York, USA
   sub: ML
-
-- title: ICRA
-  year: 2020
-  id: icra20
-  link: https://icra2020.org/
-  deadline: '2019-09-15 23:59:59'
-  timezone: America/Los_Angeles
-  date: May 31-June 4, 2020
-  place: Paris, France
-  sub: RO
 
 - title: ALT
   year: 2020
@@ -416,16 +376,6 @@
   date: April 30, 2020
   place: Addis Ababa, Ethiopia
   sub: ML
-
-- title: HRI
-  year: 2020
-  id: hri20
-  link: https://humanrobotinteraction.org/2020/
-  deadline: '2019-10-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: March 23-26, 2020
-  place: Cambridge, UK
-  sub: RO
 
 - title: AISTATS
   year: 2020
