@@ -99,8 +99,28 @@ footer {
   font-size: 13px;
 }
 
+.conf-container {
+  margin-bottom: 20px;
+}
+
 .past {
   opacity: 0.5;
+}
+
+.warm {
+  background-color: rgba(243, 210, 80, .6);
+  border-radius: 10px;
+  margin-left: -20px;
+  margin-right: -20px;
+  padding: 20px;
+}
+
+.hot {
+  background-color: rgb(247, 136, 136, .6);
+  border-radius: 10px;
+  margin-left: -20px;
+  margin-right: -20px;
+  padding: 20px;
 }
 
 .conf-row {
@@ -112,8 +132,17 @@ footer {
   font-weight: 400;
 }
 
+.conf-full-title {
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+
 .deadline, .meta {
   font-size: 13px;
+}
+
+.internal-deadline {
+  font-weight: 400;
 }
 
 .note {
