@@ -3,7 +3,7 @@ description: Countdowns to top Machine Learning/Computer Vision/Natural Language
 author: Gia Ngo (original by Abhishek Das)
 
 domain: "ngohgia.github.io/ai-neuro-countdown"
-baseurl: ""
+baseurl: "https://ngohgia.github.io/ai-neuro-countdown"
 
 github_username: ngohgia
 github_repo: ai-neuro-conference-countdown
