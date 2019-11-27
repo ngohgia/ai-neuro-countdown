@@ -68,7 +68,7 @@
             <div class="conf-jumbotron">
               <div class="conf-jumbotron-row">
                 <div class="conf-jumbotron-col">
-                  <img class="conf-jumbotron-avatar" src="{{ site.data.jumbotron.avatar }}" alt="avatar">
+                  <img class="conf-jumbotron-avatar" src="{{ site.data.jumbotron.avatar | prepend:site.baseurl }}" alt="avatar">
                 </div>
                 <div class="conf-jumbotron-col conf-jumbotron-col--large">
                   <h1 class="conf-jumbotron-header">{{ site.data.jumbotron.header }}</h1>
