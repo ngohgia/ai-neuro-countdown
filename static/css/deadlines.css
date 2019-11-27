@@ -99,6 +99,54 @@ footer {
   font-size: 13px;
 }
 
+.conf-jumbotron {
+  background-color: white;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 9999;
+}
+
+.conf-jumbotron.visible {
+  display: flex;
+}
+
+.conf-jumbotron-avatar {
+  height: 240px;
+  width: auto;
+}
+
+.conf-jumbotron-header {
+  font-family: 'Bangers', cursive;
+  font-size: 128px;
+  line-height: 150px;
+}
+
+.conf-jumbotron-row {
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+  padding-right 20px;
+}
+
+.conf-jumbotron-col.conf-jumbotron-col--large {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 20px;
+}
+
+.conf-jumbotron-lead {
+  font-size: 80px;
+}
+
 .conf-container {
   margin-bottom: 20px;
 }
@@ -108,7 +156,7 @@ footer {
 }
 
 .warm {
-  background-color: rgba(243, 210, 80, .6);
+  background-color: rgb(243, 210, 80);
   border-radius: 10px;
   margin-left: -20px;
   margin-right: -20px;
@@ -116,7 +164,7 @@ footer {
 }
 
 .hot {
-  background-color: rgb(247, 136, 136, .6);
+  background-color: rgb(247, 136, 136);
   border-radius: 10px;
   margin-left: -20px;
   margin-right: -20px;
@@ -124,6 +172,7 @@ footer {
 }
 
 .conf-row {
+  background-opacity: 0.6;
   margin-bottom: 5px;
 }
 
