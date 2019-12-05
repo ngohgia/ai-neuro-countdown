@@ -25,7 +25,7 @@
   sub: NS
 
 - title: ICMR
-  full_tile: Annual ACM International Conference on Multimedia Retrieval
+  full_title: Annual ACM International Conference on Multimedia Retrieval
   year: 2020
   id: icmr20
   link: http://icmr2020.org/
@@ -34,6 +34,17 @@
   date: June 8-11, 2020
   place: Dublin, Ireland
   sub: CV
+
+- title: CHIL
+  full_title: ACM Conference on Health, Inference, and Learning
+  year: 2020
+  id: chil2020
+  link: http://www.chilconference.org/
+  deadline: '2020-01-13 23:59:59'
+  timezone: America/Los_Angeles
+  date: April 2-4, 2020
+  place: Toronto, Canada
+  sub: MI
 
 - title: IJCAI-PRICAI
   full_title: International Joint Conference on Artificial Intelligence - Pacific Rim International Conference on Artificial Intelligence 
