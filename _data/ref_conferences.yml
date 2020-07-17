@@ -1,0 +1,292 @@
+
+---
+
+- title: IJCAI-PRICAI
+  full_title: International Joint Conference on Artificial Intelligence - Pacific
+    Rim International Conference on Artificial Intelligence
+  year: 2020
+  id: ijcai-pricai20
+  link: https://www.ijcai20.org/
+  deadline: '2020-01-21 23:59:59'
+  abstract_deadline: '2020-01-15 23:59:59'
+  timezone: UTC-12
+  date: July 11-17, 2020
+  place: Yokohama, Japan
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai19.org/''>here</a>.'
+
+- title: SIGGRAPH
+  full_title: Annual conference on computer graphics
+  year: 2020
+  id: siggraph20
+  link: https://s2020.siggraph.org/
+  deadline: '2020-01-22 22:00:00'
+  timezone: America/Los_Angeles
+  date: July 19 - 23, 2020
+  place: Washington, D.C., USA
+  sub: CV
+
+- title: MIDL
+  full_title: Medical Imaging with Deep Learning
+  year: 2020
+  id: midl2020
+  link: https://2020.midl.io/
+  deadline: '2020-01-30 23:59:00'
+  internal_deadline: '2020-01-24 23:59:59'
+  timezone: America/Los_Angeles
+  date: July 6-8, 2020
+  place: Montreal, Canada
+  sub: CV
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on Jan 24, 2020. More
+    info https://2020.midl.io/dates.html'
+
+- title: COLT
+  full_title: Conference on Learning Theory
+  year: 2020
+  id: colt20
+  link: http://www.learningtheory.org/colt2020/
+  date: June 8-12, 2020
+  deadline: '2020-01-31 16:00:00'
+  timezone: America/Los_Angeles
+  place: Graz, Austria
+  sub: ML
+
+- title: ICML
+  full_title: International Conference on Machine Learning
+  year: 2020
+  id: icml20
+  link: https://icml.cc/Conferences/2020
+  deadline: '2020-02-07 03:59:00'
+  abstract_deadline: '2020-01-31 03:59:00'
+  timezone: America/Los_Angeles
+  date: July 12-18, 2020
+  place: Vienna, Austria
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 31, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
+
+- title: KDD
+  full_title: Knowledge Discovery and Data Mining
+  year: 2020
+  id: kdd20
+  link: https://www.kdd.org/kdd2020/
+  deadline: '2020-02-13 23:59:59'
+  timezone: UTC-11
+  date: August 22-27, 2020
+  place: San Diego, California, USA
+  sub: DM
+
+- title: MICCAI
+  full_title: Medical Image Computing and Computer Assisted Intervention
+  year: 2020
+  id: miccai2020
+  link: https://miccai2020.org
+  deadline: '2020-03-03 23:59:59'
+  timezone: US/Pacific
+  date: October 4 - October 8, 2019
+  place: Lima, Peru
+  sub: MI
+  note: '<b>NOTE</b>: Mandatory intention-to-submit registration on Feb 18. More info
+    <a href="http://www.miccai2019.org/calls/call-for-papers/">here</a>.'
+
+- title: ECCV
+  full_title: European Conference on Computer Vision
+  year: 2020
+  id: eccv20
+  link: https://eccv2020.eu
+  deadline: '2020-03-05 07:00:00'
+  timezone: Europe/London
+  date: August 23-28, 2020
+  place: Glasgow, Scotland, UK
+  sub: CV
+
+- title: InterSpeech
+  year: 2020
+  id: interspeech20
+  link: http://www.interspeech2020.org/
+  deadline: '2020-03-29 23:59:59'
+  timezone: UTC-12
+  date: September 14-18, 2020
+  place: Shanghai, China
+  sub: SP
+
+- title: COLING
+  full_title: International Conference on Computational Linguistics
+  year: 2020
+  id: coling20
+  link: https://coling2020.org/
+  deadline: '2020-04-08 23:59:59'
+  timezone: UTC+1
+  date: September 13-18, 2020
+  place: Barcelona, Spain
+  sub: NLP
+
+- title: AIME
+  full_title: International Conference on Artificial Intelligence in Medicine
+  year: 2020
+  id: aime2020
+  link: http://aime20.aimedicine.info/index.php/call-for-submissions/call-for-papers
+  deadline: '2020-04-17 23:59:59'
+  abstract_deadline: '2020-04-03 23:59:59'
+  timezone: America/Los_Angeles
+  date: August 26-29, 2020
+  place: Minneapolis, Minnesota
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on April 03, 2020. More info <a
+    href=''http://aime20.aimedicine.info/index.php/call-for-submissions/call-for-papers''>here</a>.'
+
+- title: ACCV
+  full_title: Asian Conference on Computer Vision
+  year: 2020
+  id: accv20
+  link: http://accv2020.kyoto/
+  deadline: '2020-07-01 23:59:59'
+  timezone: America/Los_Angeles
+  date: Nov 30 - Dev 4, 2020
+  place: Kyoto, Japan
+  sub: CV
+
+- title: ICCV
+  full_title: International Conference on Computer Vision
+  year: 2019
+  id: iccv19
+  link: http://iccv2019.thecvf.com/
+  deadline: '2019-03-22 23:59:00'
+  timezone: America/Los_Angeles
+  date: October 27 - November 2, 2019
+  place: Seoul, Korea
+  sub: CV
+
+- title: NeurIPS
+  year: 2019
+  id: neurips19
+  link: https://neurips.cc/Conferences/2019
+  deadline: '2019-05-23 13:00:00'
+  abstract_deadline: '2019-05-16 13:00:00'
+  timezone: America/Los_Angeles
+  date: December 9-14, 2019
+  place: Vancouver Convention Centre, Canada
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 16, 2019. More info <a href="https://nips.cc/Conferences/2019/Dates">here</a>.'
+
+- title: AAAI
+  year: 2020
+  id: aaai20
+  link: https://aaai.org/Conferences/AAAI-20/
+  deadline: '2019-09-05 23:59:59'
+  timezone: UTC-10
+  date: February 7-12, 2020
+  place: New York, USA
+  sub: ML
+
+- title: ICLR
+  year: 2020
+  id: iclr20
+  link: http://iclr.cc/
+  deadline: '2019-09-25 17:59:59'
+  timezone: Africa/Nairobi
+  date: April 30, 2020
+  place: Addis Ababa, Ethiopia
+  sub: ML
+
+- title: WACV
+  year: 2020
+  id: wacv20
+  link: http://wacv20.wacv.net/
+  deadline: '2019-10-11 23:59:59'
+  timezone: America/Los_Angeles
+  date: March 2-5, 2020
+  place: Snowmass village, Colorado, USA
+  sub: CV
+  note: '<b>NOTE</b>: Second round submission deadline.'
+
+- title: ICASSP
+  full_title: International Conference on Acoustics, Speech, and Signal Processing
+  year: 2020
+  id: icassp20
+  link: https://2020.ieeeicassp.org/
+  deadline: '2019-10-21 23:59:59'
+  timezone: UTC
+  date: May 4-8, 2020
+  place: Barcelona, Spain
+  sub: SP
+
+- title: ISBI
+  full_title: International Symposium on Biomedical Imaging
+  year: 2020
+  id: isbi2020
+  link: http://2020.biomedicalimaging.org/
+  deadline: '2019-10-21 23:59:59'
+  timezone: US/Pacific
+  date: April 3-7, 2020
+  place: Iowa City, Iowa, USA
+  sub: MI
+  note: '<b>NOTE</b>: One-page papers deadline on Jan 15, 2020'
+
+- title: CVPR
+  full_title: Conference on Computer Vision and Pattern Recognition
+  year: 2020
+  id: cvpr20
+  link: http://cvpr2020.thecvf.com/
+  deadline: '2019-11-15 23:59:59'
+  timezone: America/Los_Angeles
+  date: June 14-19, 2020
+  place: Seattle, USA
+  sub: CV
+
+- title: ECAI
+  full_title: European Conference on Artificial Intelligence
+  year: 2020
+  id: ecai20
+  link: http://ecai2020.eu/
+  deadline: '2019-11-19 23:59:59'
+  abstract_deadline: '2019-11-15 23:59:59'
+  timezone: UTC-12
+  date: June 8-12, 2020
+  place: Santiago de Compostella, Spain
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''http://ecai2020.eu/call-for-papers/mainconference/''>here</a>.'
+
+- title: ACL
+  full_title: Annual Conference of the Association for Computational Linguistics
+  year: 2020
+  id: acl20
+  link: https://acl2020.org/
+  deadline: '2019-12-09 23:59:59'
+  timezone: UTC-12
+  date: July 6-8, 2020
+  place: Seattle, Washington, USA
+  sub: NLP
+
+- title: OHBM
+  full_title: Organization for Human Brain Mapping
+  year: 2020
+  id: ohbm20
+  link: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3958&activateFull=true
+  deadline: '2019-12-19 23:59:59'
+  internal_deadline: '2019-12-10 23:59:59'
+  timezone: UTC-4
+  date: June 26-30, 2020
+  place: Montreal, Canada
+  sub: NS
+
+- title: ICMR
+  full_tile: Annual ACM International Conference on Multimedia Retrieval
+  year: 2020
+  id: icmr20
+  link: http://icmr2020.org/
+  deadline: '2020-01-11 23:59:59'
+  timezone: Europe/London
+  date: June 8-11, 2020
+  place: Dublin, Ireland
+  sub: CV
+
+- title: IPMI
+  full_tile: Annual ACM International Conference on Multimedia Retrieval
+  year: 2020
+  id: icmr20
+  link: http://icmr2020.org/
+  deadline: '2020-01-11 23:59:59'
+  timezone: Europe/London
+  date: June 8-11, 2020
+  place: Dublin, Ireland
+  sub: CV

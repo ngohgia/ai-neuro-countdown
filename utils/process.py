@@ -93,15 +93,28 @@ def query_yes_no(question, default="no"):
             sys.stdout.write("Please respond with 'yes' or 'no' "
                              "(or 'y' or 'n').\n")
 
+full_title_by_acronym = {}
+with open("../_data/ref_conferences.yml", 'r') as stream:
+    ref_data = yaml.load(stream, Loader=Loader)
+    for q in ref_data:
+        if "full_title" in q:
+            full_title_by_acronym[q["title"]] = q["full_title"]
 
 # Sort:
-
 with open("../_data/conferences.yml", 'r') as stream:
     try:
-        data = yaml.load(stream, Loader=Loader)
+        raw_data = yaml.load(stream, Loader=Loader)
+        # remove RO sub
+        data = []
+        for q in raw_data:
+            if q["sub"] != "RO":
+                if q["title"] in full_title_by_acronym:
+                    q["full_title"] = full_title_by_acronym[q["title"]]
+                data.append(q)
+
         print("Initial Sorting:")
         for q in data:
-            print(q["deadline"], " - ", q["title"])
+            print(q["deadline"], " - ", q["title"], q["sub"])
         print("\n\n")
         conf = [x for x in data if x['deadline'].lower() not in tba_words]
         tba = [x for x in data if x['deadline'].lower() in tba_words]
